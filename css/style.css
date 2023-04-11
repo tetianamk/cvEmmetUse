@@ -4,10 +4,6 @@ body {
 span {
   font-weight: 700;
 }
-address, 
-article {
-  border-bottom: 2px solid #777e7c;
-}
 .books {
   border-bottom: none;
 }
